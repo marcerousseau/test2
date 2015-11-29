@@ -1,7 +1,7 @@
 '''
 Created on 22 oct. 2015
 
-@author: mrousseau
+@author: mrousseau - toto
 '''
 from lifetimes.datasets import load_cdnow
 from lifetimes.estimation import BetaGeoFitter, GammaGammaFitter, ParetoNBDFitter
